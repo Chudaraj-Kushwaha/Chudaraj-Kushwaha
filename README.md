@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">Hi, I'm Chudaraj ✌️</h1>
 
-<!--
-**Chudaraj-Kushwaha/Chudaraj-Kushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I'm a cybersecurity student.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Actively involved in Vulnerability Assessment and Penetration Testing (VAPT), red teaming.<br>📚 Currently ongoing my B.Tech in CyberSecurity<br>💬 Excited about integrating cybersecurity and software development skills to tackle challenges in both domains<br>📫 How to reach me - You can mail me at chudarajkushwaha45@gmail.com</p>
+
+###
+
+<h2 align="left">Find me around the web 🌎</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+</div>
+
+###
