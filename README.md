@@ -1,8 +1,8 @@
-<h1 align="left">Hi, I'm Chudaraj ✌️</h1>
+<h1 align="left">Hey eTac..!✌️</h1>
 
 ###
 
-<p align="left">I'm a cybersecurity student.</p>
+<p align="left">A CyberSecurity Student pursuing a Bachleor's in CyberSecurity and Passionate cybersecurity student with hands-on experience in penetration testing, vulnerability assessment, and ethical hacking. Skilled in Linux security, network analysis, and scripting. Completed a keylogger for Linux as part of practical learning. Enthusiastic about CTF challenges, digital forensics, and exploit development. Seeking an internship or entry-level opportunity to apply cybersecurity skills in real-world scenarios.</p>
 
 ###
 
